@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Shakila Nimantha Dilshan
 
-🔭 **I'm interested in** 
-- Web Development 
+**I'm interested in** 
+- Web and Mobile Development 
 
-🌱 **I'm currently learning**  
-- React.js & Next.js 🚀     
+**I'm currently learning**  
+- Mern, Mern native, Flutter, Python, Java and OOP concepts    
 
-📫 **How to reach me**  
-- Email: shakilanimantha6@gmail.com  
+**How to reach me**  
+- Email: sakilanimantha6@gmail.com  
 - LinkedIn: [linkedin.com/in/shakilanimantha](#)  
 - Portfolio: [shakilanimantha.dev](#)
