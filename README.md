@@ -8,5 +8,5 @@
 
 **How to reach me**  
 - Email: sakilanimantha6@gmail.com  
-- LinkedIn: [linkedin.com/in/shakilanimantha](#)  
+- LinkedIn: https://www.linkedin.com/in/shakila-dilshan-63828b2a6/
 - Portfolio: [shakilanimantha.dev](#)
